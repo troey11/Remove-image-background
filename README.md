@@ -1,5 +1,5 @@
 Remove Image background using api remove.bg
 
-using
+use:
 
 remove_background("/var/www/image/1.jpg","result");
